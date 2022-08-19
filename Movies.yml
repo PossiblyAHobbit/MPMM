@@ -1,0 +1,22 @@
+collections:
+    Top Pirated Movies:
+        trakt_list:
+            - https://trakt.tv/users/hdlists/lists/top-ten-pirated-movies-of-the-week-torrent-freak-com
+        sort_title: Top Pirated Movies
+        sync_mode: sync
+        # smart_label: random
+        collection_order: custom
+        collection_mode: hide
+        url_poster: https://raw.githubusercontent.com/AwesomeAustn/Plex-Meta-Manager-Images/master/AwesomeAustn/Sets/Top%2010%20Pirated%20Movies.png
+        summary: Movies on Plex that are also in the top 10 pirated movies of the week.
+    
+    Marvel Cinematic Universe:
+        collection_order: custom
+        trakt_list:
+            - https://trakt.tv/users/username57/lists/marvel-cinematic-universe-mcu-timeline?sort=rank,asc
+        sort_title: Marvel Cinematic Universe
+        sync_mode: sync
+        collection_mode: hide
+        summary: Chronological order of the Marvel Cinematic Universe
+        url_poster: https://theposterdb.com/api/assets/6897/download?performed_by=heyzues
+        
