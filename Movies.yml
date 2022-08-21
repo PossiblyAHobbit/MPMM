@@ -4,7 +4,7 @@ collections:
             - https://trakt.tv/users/hdlists/lists/top-ten-pirated-movies-of-the-week-torrent-freak-com
         sort_title: Top Pirated Movies
         sync_mode: sync
-        # smart_label: random
+        smart_label: random
         collection_order: custom
         collection_mode: hide
         url_poster: https://raw.githubusercontent.com/AwesomeAustn/Plex-Meta-Manager-Images/master/AwesomeAustn/Sets/Top%2010%20Pirated%20Movies.png
@@ -22,6 +22,7 @@ collections:
         
      Mindfuck Movies:
         smart_label: title.asc
-        trakt_list: https://trakt.tv/users/benfranklin/lists/best-mindfucks
+        trakt_list: 
+            - https://trakt.tv/users/benfranklin/lists/best-mindfucks
         summary: Movies that play with your mind, confuse you, and leads you on. Plot twists or surreal storylines.
         sort_title: '+2 Mindfuck'
