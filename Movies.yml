@@ -21,3 +21,8 @@ collections:
         summary: Chronological order of the Marvel Cinematic Universe
         url_poster: https://theposterdb.com/api/assets/6897/download?performed_by=heyzues
         
+     Mindfuck Movies:
+        smart_label: title.asc
+        trakt_list: https://trakt.tv/users/benfranklin/lists/best-mindfucks
+        summary: Movies that play with your mind, confuse you, and leads you on. Plot twists or surreal storylines.
+        sort_title: '+2 Mindfuck'
