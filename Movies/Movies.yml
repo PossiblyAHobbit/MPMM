@@ -25,4 +25,4 @@ collections:
         trakt_list: 
             - https://trakt.tv/users/benfranklin/lists/best-mindfucks
         summary: Movies that play with your mind, confuse you, and leads you on. Plot twists or surreal storylines.
-        sort_title: '+2 Mindfuck'
+        sort_title: Mindfuck
