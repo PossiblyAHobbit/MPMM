@@ -11,7 +11,8 @@ collections:
         summary: Movies on Plex that are also in the top 10 pirated movies of the week.
     
     Marvel Cinematic Universe:
-        collection_order: custom
+        #collection_order: custom
+        smart_label: random
         trakt_list:
             - https://trakt.tv/users/username57/lists/marvel-cinematic-universe-mcu-timeline?sort=rank,asc
         sort_title: Marvel Cinematic Universe
